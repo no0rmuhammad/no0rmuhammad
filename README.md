@@ -1,4 +1,4 @@
-[![MasterHead](https://media.istockphoto.com/id/537331500/photo/programming-code-abstract-technology-background-of-software-deve.jpg?s=612x612&w=0&k=20&c=jlYes8ZfnCmD0lLn-vKvzQoKXrWaEcVypHnB5MuO-g8=)
+![MasterHead](https://retool.com/blog/content/images/2022/02/gotchas-git-github-banner-1.png)
 <h1 align="center">Hi 👋, I'm Noor Muhammad</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="animatedCoding" width="400" src="https://img.freepik.com/free-vector/male-programmer-working-computer-office-wall-with-hanging-reminder-stickers-developer-creating-new-software-interface-coding-programming-system-administrator-designer-character_575670-1159.jpg?w=2000">
